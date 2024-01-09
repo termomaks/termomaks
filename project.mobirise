@@ -43,11 +43,11 @@
       }
     ],
     "uniqCompNum": 20,
-    "versionPublish": "5.9.11",
+    "versionPublish": "5.9.13",
     "imageResize": true,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "yas31a54fm",
+    "mbrsiteDomain": "wue82spdn0",
     "usedWebp": true,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -63,7 +63,8 @@
     "witsec-search": false,
     "witsec-white-label": true,
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
